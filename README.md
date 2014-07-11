@@ -12,16 +12,42 @@ Some good repositories I collect on github
 - [gitreceive](https://github.com/progrium/gitreceive)
 - [git-hooks](https://github.com/icefox/git-hooks)
 - [git-prompt](https://github.com/lvv/git-prompt)
-- [GotGithub](https://github.com/gotgit/gotgithub)
 
     http://volnitsky.com/project/git-prompt/
 
+- [GotGithub](https://github.com/gotgit/gotgithub)
+- [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [hub](https://github.com/github/hub)
+- [gitbook](https://github.com/GitbookIO/gitbook) 结合GitHub和Markdown来写书
 - [todo.txt-cli](https://github.com/ginatrapani/todo.txt-cli)
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup)
+- [git-submodule-tutorial](https://github.com/NebuPookins/git-submodule-tutorial)
+- [git-tutorial](https://github.com/chriskite/git-tutorial)
+
+    An interactive tutorial for a git branching model
+
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
+
+    An interactive git visualization to challenge and educate!
+
+- [Legit](http://www.git-legit.org/)
+
+    Legit is a complementary command-line interface for Git, optimized for workflow simplicity. It is heavily inspired by GitHub for Mac.
 
 ## Vim
 
 ## Emacs
+
+## CLI
+- [gcalcli](https://github.com/insanum/gcalcli)
+
+Google Calendar Command Line Interface
+
+
+## Presentation
+- [Remarkjs](https://github.com/gnab/remark)
+
+http://jianshu.io/p/09a3bbb8b362
 
 # Web Design
 ## js
@@ -39,12 +65,12 @@ Some good repositories I collect on github
 - [justjavac / free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 - [qinjx / 30min_guides](https://github.com/qinjx/30min_guides)
 - [chaconnewu / free-data-science-books](https://github.com/chaconnewu/free-data-science-books)
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love)
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) 优秀科技论文集合
 
 # Programming
-[zh-google-styleguide](https://github.com/brantyoung/zh-google-styleguide)
-[Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations)
-[Algorithms & Data Structures in C++](https://github.com/xtaci/algorithms)
+- [zh-google-styleguide](https://github.com/brantyoung/zh-google-styleguide)
+- [Algorithm-Implementations](https://github.com/kennyledet/Algorithm-Implementations)
+- [Algorithms & Data Structures in C++](https://github.com/xtaci/algorithms)
 ## Python
 ## Shell
 - [bash-it](https://github.com/revans/bash-it)
