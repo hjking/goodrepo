@@ -40,12 +40,19 @@ Some good repositories I collect on github
 - 
 
 ## Emacs
+- [emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)
+- [prelude](https://github.com/bbatsov/prelude)
+- [purcell](https://github.com/purcell/emacs.d)
 
 ## CLI
 - [gcalcli](https://github.com/insanum/gcalcli)
 
     Google Calendar Command Line Interface
 
+## tmux
+- [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect)
+
+    Restore tmux environment after a system restart.
 
 # Web Design
 ## js
@@ -85,6 +92,7 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html)
 
 ## Shell
+- [awesome shell](https://github.com/alebcay/awesome-shell)
 - [bash-it](https://github.com/revans/bash-it)
 - [prezto](https://github.com/sorin-ionescu/prezto)
 - [liquidprompt](https://github.com/nojhan/liquidprompt)
@@ -96,6 +104,7 @@ JavaScript Library for creating random pleasing colors and color schemes.
     Pretty, minimal and fast ZSH prompt
 
 - [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)
+- [antigen](https://github.com/zsh-users/antigen)
 - [oh-my-zsh-powerline-theme](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
 
@@ -103,3 +112,19 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [Udacity](https://www.udacity.com/)
 - [课程图谱](http://coursegraph.com/)
 - [Codecademy](http://www.codecademy.com/)
+
+# awesome-list
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [awesome-python](https://github.com/vinta/awesome-python)
+- [awesome-ios](https://github.com/vsouza/awesome-ios)
+- [awesome-shell](https://github.com/alebcay/awesome-shell)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+- [awesome-awesome](https://github.com/emijrp/awesome-awesome)
+- [awesome-perl](https://github.com/mackee/awesome-perl)
+- [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia)
+- [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+- [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+- [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
