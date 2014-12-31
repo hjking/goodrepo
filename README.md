@@ -37,7 +37,8 @@ Some good repositories I collect on github
 
 ## Vim
 - [Janus](https://github.com/carlhuda/janus)
-- 
+- [maximum-awesome](https://github.com/square/maximum-awesome)
+- [spf13-vim](http://vim.spf13.com/)
 
 ## Emacs
 - [emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)
@@ -53,6 +54,9 @@ Some good repositories I collect on github
 - [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect)
 
     Restore tmux environment after a system restart.
+
+- [tmux-plugins](https://github.com/tmux-plugins/)
+- [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
 
 # Web Design
 ## js
@@ -128,3 +132,4 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [awesome-courses](https://github.com/prakhar1989/awesome-courses)
