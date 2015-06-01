@@ -1,10 +1,25 @@
 # Python
 
+## 教程
+- [廖雪峰 Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
+- [Vamei - Python快速教程](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
+- [《零基础学python》（第二版）](https://github.com/qiwsir/StarterLearningPython)
+- [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/index.html)
+- [深入 Python :Dive Into Python 中文版](http://woodpecker.org.cn/diveintopython/toc/index.html)
+- [量化分析师的Python日记](https://app.wmcloud.com/mercury/community/share/54c89443f9f06c276f651a52)
+- [统计师的Python日记](http://mp.weixin.qq.com/s?__biz=MjM5MDEzNDAyNQ==&mid=200997042&idx=1&sn=99b0f9426d5c6f1d7eda975aafcdc284&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
+- [A Byte of Python](http://www.swaroopch.com/notes/python/)
+- [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+- [Python学习](http://www.cnblogs.com/feeland/category/667460.html)
+
 ## 爬虫
 - [scrapy](https://github.com/scrapy/scrapy)
   * [Scrapy 轻松定制网络爬虫](http://blog.pluskid.org/?p=366)
 - [python-goose](https://github.com/grangier/python-goose)
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
+- [pyspider](https://github.com/binux/pyspider)
+- [portia](https://github.com/scrapinghub/portia)
+- [distribute_crawler](https://github.com/gnemoug/distribute_crawler)
 
 ## 文本处理
 - [NLTK](http://www.nltk.org/)
@@ -26,10 +41,19 @@
 - [Matplotlib](http://matplotlib.org/)
 - [iPython](http://ipython.org/)
 
+## 图像处理
+- [Python Imaging Library (PIL)](http://www.pythonware.com/products/pil/)
+- [Pillow](https://github.com/python-pillow/Pillow)
+- [matplotlib](http://matplotlib.org/)
+
 ## 机器学习 & 数据挖掘
 - [scikit-learn](http://scikit-learn.org/)
   * [github repo](https://github.com/scikit-learn/scikit-learn)
+
+  基于NumPy, SciPy, atplotlib的开源机器学习工具包，主要涵盖分类，回归和聚类算法等。
+
 - [Pandas](http://pandas.pydata.org/)
+  * [github repo](https://github.com/pydata/pandas)
 
     主要用于数据分析和数据可视化.
 
@@ -47,7 +71,6 @@
 - [bootstrapy](https://github.com/kirang89/bootstrapy)
 - [Reddit Python 学习视频](http://www.reddit.com/r/Python/comments/1rs7ub/what_are_some_mustwatch_python_videos/)
 - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
-- [廖雪峰 Python教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 - [neckbeard](https://www.neckbeardrepublic.com/)
 - [全栈 Python](http://www.fullstackpython.com/)
 - [10 个不错的 Python 学习资源](http://codecondo.com/10-ways-to-learn-python/)
@@ -60,3 +83,6 @@
 - [Problem Solving with Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 - [Online Python Tutor - 一个免费的 Python 学习工具](http://www.pythontutor.com/)
 - [ 计算机科学及 Python 编程导论（@MOOC学院）](http://mooc.guokr.com/course/244/Introduction-to-Computer-Science-and-Programming-Using-Python/)
+- [awesome python](https://github.com/vinta/awesome-python)
+- [PyCoder’s Weekly 中文翻译](http://pycoders-weekly-chinese.readthedocs.org/en/latest/index.html)
+- [用Python做科学计算](http://sebug.net/paper/books/scipydoc/index.html)

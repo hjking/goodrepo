@@ -5,6 +5,7 @@ Some good repositories I collect on github
 
 # Tools
 ## Git
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Extras](https://github.com/visionmedia/git-extras)
 - [gitflow](https://github.com/nvie/gitflow)
 - [git-dude](https://github.com/sickill/git-dude)
@@ -23,6 +24,7 @@ Some good repositories I collect on github
 - [todo.txt-cli](https://github.com/ginatrapani/todo.txt-cli)
 - [rsync-time-backup](https://github.com/laurent22/rsync-time-backup)
 - [git-submodule-tutorial](https://github.com/NebuPookins/git-submodule-tutorial)
+- [Git Style Guide](https://github.com/agis-/git-style-guide)
 - [git-tutorial](https://github.com/chriskite/git-tutorial)
 
     An interactive tutorial for a git branching model
@@ -95,6 +97,15 @@ JavaScript Library for creating random pleasing colors and color schemes.
 ## C
 - [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html)
 
+## Verilog/SystemVerilog
+- [svlib](http://www.verilab.com/resources/svlib/)
+    
+    a programmer's utility library for SystemVerilog
+
+## iOS
+- [iOS UI/UX Lib)  ](https://github.com/cjwirth/awesome-ios-ui)
+- [Objective-C GitHub 排名前 100 项目](https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md)
+
 ## Shell
 - [awesome shell](https://github.com/alebcay/awesome-shell)
 - [bash-it](https://github.com/revans/bash-it)
@@ -111,6 +122,7 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [antigen](https://github.com/zsh-users/antigen)
 - [oh-my-zsh-powerline-theme](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
+- [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
 
 # 在线学习
 - [Udacity](https://www.udacity.com/)
@@ -126,10 +138,15 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome)
-- [awesome-perl](https://github.com/mackee/awesome-perl)
+- [awesome-perl](https://github.com/hachiojipm/awesome-perl)
 - [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia)
 - [awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+
+# Linux
+- [linux-internals](https://github.com/0xAX/linux-insides)
+
+

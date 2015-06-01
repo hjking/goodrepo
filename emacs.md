@@ -9,3 +9,4 @@
 
 ## misc
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs)
+- [spacemacs](https://github.com/syl20bnr/spacemacs)
