@@ -6,6 +6,7 @@ Some good repositories I collect on github
 # Tools
 ## Git
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [Git Cheat Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet)
 - [Git Extras](https://github.com/visionmedia/git-extras)
 - [gitflow](https://github.com/nvie/gitflow)
 - [git-dude](https://github.com/sickill/git-dude)
@@ -37,28 +38,15 @@ Some good repositories I collect on github
 
     Legit is a complementary command-line interface for Git, optimized for workflow simplicity. It is heavily inspired by GitHub for Mac.
 
-## Vim
-- [Janus](https://github.com/carlhuda/janus)
-- [maximum-awesome](https://github.com/square/maximum-awesome)
-- [spf13-vim](http://vim.spf13.com/)
-
-## Emacs
-- [emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)
-- [prelude](https://github.com/bbatsov/prelude)
-- [purcell](https://github.com/purcell/emacs.d)
+- [Git Workflows and Tutorials](https://www.atlassian.com/git/workflows)
+- [Git Workflows and Tutorials中文翻译](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
 
 ## CLI
 - [gcalcli](https://github.com/insanum/gcalcli)
 
     Google Calendar Command Line Interface
 
-## tmux
-- [Tmux Resurrect](https://github.com/tmux-plugins/tmux-resurrect)
-
-    Restore tmux environment after a system restart.
-
-- [tmux-plugins](https://github.com/tmux-plugins/)
-- [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 # Web Design
 ## js
@@ -106,24 +94,6 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [iOS UI/UX Lib)  ](https://github.com/cjwirth/awesome-ios-ui)
 - [Objective-C GitHub 排名前 100 项目](https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md)
 
-## Shell
-- [awesome shell](https://github.com/alebcay/awesome-shell)
-- [bash-it](https://github.com/revans/bash-it)
-- [prezto](https://github.com/sorin-ionescu/prezto)
-- [liquidprompt](https://github.com/nojhan/liquidprompt)
-- [fasd](https://github.com/clvv/fasd)
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-- [bashmarks](https://github.com/huyng/bashmarks)
-- [pure](https://github.com/sindresorhus/pure)
-
-    Pretty, minimal and fast ZSH prompt
-
-- [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)
-- [antigen](https://github.com/zsh-users/antigen)
-- [oh-my-zsh-powerline-theme](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
-- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
-- [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
-
 # 在线学习
 - [Udacity](https://www.udacity.com/)
 - [课程图谱](http://coursegraph.com/)
@@ -145,8 +115,3 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
-
-# Linux
-- [linux-internals](https://github.com/0xAX/linux-insides)
-
-

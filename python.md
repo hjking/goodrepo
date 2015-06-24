@@ -15,6 +15,7 @@
 ## 爬虫
 - [scrapy](https://github.com/scrapy/scrapy)
   * [Scrapy 轻松定制网络爬虫](http://blog.pluskid.org/?p=366)
+- [Scrapy 中文文档](http://scrapy-chs.readthedocs.org/zh_CN/latest/index.html)
 - [python-goose](https://github.com/grangier/python-goose)
 - [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
 - [pyspider](https://github.com/binux/pyspider)
@@ -86,3 +87,4 @@
 - [awesome python](https://github.com/vinta/awesome-python)
 - [PyCoder’s Weekly 中文翻译](http://pycoders-weekly-chinese.readthedocs.org/en/latest/index.html)
 - [用Python做科学计算](http://sebug.net/paper/books/scipydoc/index.html)
+- [python-patterns](https://github.com/faif/python-patterns)
