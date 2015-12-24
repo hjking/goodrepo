@@ -58,6 +58,9 @@
 
     主要用于数据分析和数据可视化.
 
+- 数据挖掘资源
+  * [利用 Python 练习数据挖掘](http://python.jobbole.com/83563/)
+
 ## Reference
 - [python_reference](https://github.com/rasbt/python_reference)
 

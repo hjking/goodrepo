@@ -59,6 +59,13 @@ Some good repositories I collect on github
 
 JavaScript Library for creating random pleasing colors and color schemes.
 
+## 静态网站生成
+- [Jekyll](https://github.com/jekyll/jekyll)
+- [Jekyll-bootstrap](https://github.com/plusjade/jekyll-bootstrap)
+- [Hexo](https://github.com/hexojs/hexo)
+- [Octopress](https://github.com/imathis/octopress)
+- [Lektor](https://github.com/lektor/lektor)
+
 # Guide Book
 ## Code Guide
 - [中文Code_Guide](https://github.com/Suxiaogang/Code_Guide)
@@ -115,3 +122,13 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+
+# Style Guide
+- [Raywenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+- [Github Swift Style Guide](https://github.com/github/swift-style-guide)
+- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+- [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
+- [Git Style Guide](https://github.com/agis-/git-style-guide)
+- [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
+- [Python Style Guide](https://github.com/kennethreitz/python-guide)
+- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide)
