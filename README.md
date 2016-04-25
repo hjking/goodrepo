@@ -65,6 +65,8 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [Hexo](https://github.com/hexojs/hexo)
 - [Octopress](https://github.com/imathis/octopress)
 - [Lektor](https://github.com/lektor/lektor)
+- [Ghost](http://www.ghostchina.com/)
+- [Pelican](https://github.com/getpelican/pelican)
 
 # Guide Book
 ## Code Guide
@@ -88,13 +90,14 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [55分钟学会正则表达式(译)](http://doslin.com/learn-regular-expressions-in-about-55-minutes/)
 - [Free Programming Books Collections](http://www.freeprogrammingbook.com/)
+- [算法与数据结构](https://github.com/ty4z2008/Qix/blob/master/algorithm.md)
 
 ## C
 - [Guide to Advanced Programming in C](http://pfacka.binaryparadise.com/articles/guide-to-advanced-programming-in-C.html)
 
 ## Verilog/SystemVerilog
 - [svlib](http://www.verilab.com/resources/svlib/)
-    
+
     a programmer's utility library for SystemVerilog
 
 ## iOS
@@ -122,6 +125,8 @@ JavaScript Library for creating random pleasing colors and color schemes.
 - [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses)
+- [awesome-github](https://github.com/AntBranch/awesome-github)
+- [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp)
 
 # Style Guide
 - [Raywenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)

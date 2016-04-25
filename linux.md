@@ -20,11 +20,16 @@
 
     Pretty, minimal and fast ZSH prompt
 
+- [oh-my-zsh](http://ohmyz.sh/)
 - [zsh-git-prompt](https://github.com/olivierverdier/zsh-git-prompt)
 - [antigen](https://github.com/zsh-users/antigen)
 - [oh-my-zsh-powerline-theme](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
+- [zim](https://github.com/Eriner/zim)
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
 - [Bash Style Guide](https://github.com/bahamas10/bash-style-guide)
+
+### Shell Programming
+- [Good practices for writing shell scripts](http://www.yoone.eu/articles/2-good-practices-for-writing-shell-scripts.html)
 
 
 # Linux

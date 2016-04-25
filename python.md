@@ -21,12 +21,13 @@
 - [pyspider](https://github.com/binux/pyspider)
 - [portia](https://github.com/scrapinghub/portia)
 - [distribute_crawler](https://github.com/gnemoug/distribute_crawler)
+- [Python爬虫开发](http://www.freebuf.com/news/special/96763.html)
 
 ## 文本处理
 - [NLTK](http://www.nltk.org/)
   * [Natural Language Processing with Python 中文翻译](http://www.52nlp.cn/%E6%8E%A8%E8%8D%90%EF%BC%8D%E7%94%A8python%E8%BF%9B%E8%A1%8C%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%8D%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91-nltk%E9%85%8D%E5%A5%97%E4%B9%A6)
 - [pattern](http://www.clips.ua.ac.be/pattern)
-    
+
     Pattern由比利时安特卫普大学CLiPS实验室出品，客观的说，Pattern不仅仅是一套文本处理工具，它更是一套web数据挖掘工具，囊括了数据抓取模块（包括Google, Twitter, 维基百科的API，以及爬虫和HTML分析器），文本处理模块（词性标注，情感分析等），机器学习模块(VSM, 聚类，SVM）以及可视化模块等，可以说，Pattern的这一整套逻辑也是这篇文章的组织逻辑。有很多很不错的文本处理功能，包括基础的tokenize, 词性标注，句子切分，语法检查，拼写纠错，情感分析，句法分析等，相当不错。
 
 - [MBSP](http://www.clips.ua.ac.be/pages/MBSP)
