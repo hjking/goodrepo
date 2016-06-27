@@ -11,6 +11,7 @@
 - [A Byte of Python](http://www.swaroopch.com/notes/python/)
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
 - [Python学习](http://www.cnblogs.com/feeland/category/667460.html)
+- [Think Python 2e 最新版中文](http://codingpy.com/books/thinkpython2/index.html)
 
 ## 爬虫
 - [scrapy](https://github.com/scrapy/scrapy)
