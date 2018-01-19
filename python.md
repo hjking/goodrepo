@@ -63,6 +63,8 @@
 - 数据挖掘资源
   * [利用 Python 练习数据挖掘](http://python.jobbole.com/83563/)
 
+- [Deep Learning 中文](https://github.com/exacity/deeplearningbook-chinese)
+
 ## Reference
 - [python_reference](https://github.com/rasbt/python_reference)
 
